@@ -82,6 +82,6 @@ Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfo
 <br>	
 <a target="_blank" href="(https://www.linkedin.com/in/karen-glez-lopez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:aisgl2309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Facebook-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://www.facebook.com/share/s45FmCrDtqUbXeDt/?mibextid=qi2Omg"><img src="https://img.shields.io/badge/-Facebook-12100E?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
 <br>
 </p>
