@@ -1,6 +1,6 @@
 ### HOLA 👋 SOY Karen Gonzalez,
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ciencias+de+la+Computación;Full+Stack+Web+Developer;AI%20|%20ML%20Enthusiast;Simpre%20Aprendiendo%20Nuevas%20tCosas&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ciencias+de+la+Computación;Full+Stack+Web+Developer;Siempre%20Aprendiendo%20Nuevas%20tCosas&center=true&width=500&height=50"></a>
 </p>
 
 Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfoque en el desarrollo web.
