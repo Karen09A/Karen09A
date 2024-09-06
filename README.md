@@ -1,6 +1,6 @@
 ### HOLA 👋 SOY Karen Gonzalez,
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ciencias+de+la+Computación;Full+Stack+Web+Developer;Siempre%20Aprendiendo%20Nuevas%20tCosas&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ciencias+de+la+Computación;Full+Stack+Web+Developer;Siempre%20Aprendiendo%20Nuevas%20Cosas&center=true&width=500&height=50"></a>
 </p>
 
 Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfoque en el desarrollo web.
@@ -9,8 +9,8 @@ Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfo
 
 - 🔭 Actualmente estudio:
 	- Development FrontEnd y BackEnd
-- :bulb: Yo estoy interesada en : **Web y Ciencias de Datos**
-- 💬 Me gusta aprender cosas nuevas o datos interesantes de mi área o de otras.
+- :bulb: Yo estoy interesada en : **Web Developer y Ciencias de Datos**
+- 💬 Me gusta aprender cosas nuevas o datos interesantes de mi área u otras.
 
 ## Mis habilidades incluyen
 
@@ -20,23 +20,23 @@ Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfo
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <a href="https://www.cprogramming.com/"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.w3schools.com/cpp/"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+   <a href="https://www.python.org">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
