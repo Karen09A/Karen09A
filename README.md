@@ -12,8 +12,6 @@ Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfo
 - :bulb: Yo estoy interesada en : **Web Developer y Ciencias de Datos**
 - 💬 Me gusta aprender cosas nuevas o datos interesantes de mi área u otras.
 
-## Mis habilidades incluyen
-
 ## 🛠️ Mis habilidades
 
 ### 👉 Lenguajes de Programación
@@ -77,19 +75,13 @@ Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfo
 
 </span>
 
-
-
-
-    
-
 <hr>
 <p align="center">
    <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="(https://www.linkedin.com/in/karen-glez-lopez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:aisgl2309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Facebook-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <br>
 </p>
