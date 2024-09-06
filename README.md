@@ -22,6 +22,10 @@ Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfo
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
   </a> 
   &emsp;
+<a href="https://www.cprogramming.com/"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
   <a href="https://www.w3schools.com/cpp/"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
@@ -75,13 +79,9 @@ Soy próxima egresada de Ingeniería en Ciencias de la Computación, con un enfo
 
 </span>
 
-<hr>
-<p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
-   <br>
-<br>	
-<a target="_blank" href="(https://www.linkedin.com/in/karen-glez-lopez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:aisgl2309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://www.facebook.com/share/s45FmCrDtqUbXeDt/?mibextid=qi2Omg"><img src="https://img.shields.io/badge/-Facebook-12100E?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
+## 🙋‍♀️ Contáctame 
+<a target="_blank" href="(https://www.linkedin.com/in/karen-glez-lopez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a target="_blank" href="mailto:aisgl2309@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a target="_blank" href="https://www.facebook.com/share/s45FmCrDtqUbXeDt/?mibextid=qi2Omg"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 <br>
 </p>
